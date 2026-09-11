@@ -1,6 +1,5 @@
 # Golang-Projects
 
-# Go Projects
 
 A collection of projects I built while learning Go,
 covering HTTP servers, REST APIs, file handling,
