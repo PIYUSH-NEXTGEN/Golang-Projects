@@ -1,0 +1,6 @@
+[app.log] 2026-09-11 10:15:01 INFO  Application started
+[server.log] 2026-09-11 10:15:05 INFO  Server listening on port 8080
+[db.log] 2026-09-11 10:15:10 INFO  Database connected
+[app.log] 2026-09-11 10:16:23 INFO  User logged in
+[server.log] 2026-09-11 10:17:45 WARN  High memory usage
+[db.log] 2026-09-11 10:18:02 ERROR Database connection failed2026-09-11 10:15:10 INFO Database connected
